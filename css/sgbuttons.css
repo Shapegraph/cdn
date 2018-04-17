@@ -1,0 +1,248 @@
+button {
+  margin: 0px;
+  padding: 6px 22px;
+  border: none;
+  border-radius: 50px;
+  color: #888;
+  font-family: PingFangSC-UltraLight, PingFangSC;
+  font-weight: 200;
+  font-size: 14px;
+  box-shadow: 0px 1.5px 3px rgba(0,0,0,0.15);
+  background: linear-gradient(270deg, #f4f4f4, #efefef);
+  background-size: 300% 300%;
+  -webkit-animation: FogDrift 10s ease infinite;
+  -moz-animation: FogDrift 10s ease infinite;
+  -o-animation: FogDrift 10s ease infinite;
+  animation: FogDrift 10s ease infinite;
+  @-webkit-keyframes FogDrift {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes FogDrift {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes FogDrift {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes FogDrift {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  
+}
+
+.btn {
+  color: #aaaaaa;
+  background: linear-gradient(270deg, #f9f9f9, #ffffff);
+  background-size: 300% 300%;
+  -webkit-animation: EtherFlow 10s ease infinite;
+  -moz-animation: EtherFlow 10s ease infinite;
+  -o-animation: EtherFlow 10s ease infinite;
+  animation: EtherFlow 10s ease infinite;
+  @-webkit-keyframes EtherFlow {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes EtherFlow {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes EtherFlow {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes EtherFlow {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
+
+#sgBtn {
+  color: #fff;
+  background: linear-gradient(270deg, #00bcd4, #00e1ff);
+  background-size: 300% 300%;
+  -webkit-animation: ShapeGraph 10s ease infinite;
+  -moz-animation: ShapeGraph 10s ease infinite;
+  -o-animation: ShapeGraph 10s ease infinite;
+  animation: ShapeGraph 10s ease infinite;
+  @-webkit-keyframes ShapeGraph {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes ShapeGraph {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes ShapeGraph {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes ShapeGraph {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
+
+#greenBtn {
+  color: #fff;
+  background: linear-gradient(270deg, #8ec520, #a5de37);
+  background-size: 300% 300%;
+  -webkit-animation: SpringGrass 10s ease infinite;
+  -moz-animation: SpringGrass 10s ease infinite;
+  -o-animation: SpringGrass 10s ease infinite;
+  animation: SpringGrass 10s ease infinite;
+  @-webkit-keyframes SpringGrass {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes SpringGrass {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes SpringGrass {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes SpringGrass {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
+
+#yellowBtn {
+  color: #fff;
+  background: linear-gradient(270deg, #e49501, #feae1b);
+  background-size: 300% 300%;
+  -webkit-animation: HoneyStir 10s ease infinite;
+  -moz-animation: HoneyStir 10s ease infinite;
+  -o-animation: HoneyStir 10s ease infinite;
+  animation: HoneyStir 10s ease infinite;
+  @-webkit-keyframes HoneyStir {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes HoneyStir {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes HoneyStir {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes HoneyStir {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
+
+#blueBtn {
+  color: #fff;
+  background: linear-gradient(270deg, #0776c5, #1b9af7);
+  background-size: 300% 300%;
+  -webkit-animation: OceanWave 10s ease infinite;
+  -moz-animation: OceanWave 10s ease infinite;
+  -o-animation: OceanWave 10s ease infinite;
+  animation: OceanWave 10s ease infinite;
+  @-webkit-keyframes OceanWave {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes OceanWave {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes OceanWave {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      150%{background-position:0% 50%}
+  }
+  @keyframes OceanWave {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
+
+#redBtn {
+  color: #fff;
+  background: linear-gradient(270deg, #ff3341, #ff4351);
+  background-size: 300% 300%;
+  -webkit-animation: FireBlaze 10s ease infinite;
+  -moz-animation: FireBlaze 10s ease infinite;
+  -o-animation: FireBlaze 10s ease infinite;
+  animation: FireBlaze 10s ease infinite;
+  @-webkit-keyframes FireBlaze {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes FireBlaze {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes FireBlaze {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes FireBlaze {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
+
+#purpleBtn {
+  color: #fff;
+  background: linear-gradient(270deg, #615def, #7d79f2);
+  background-size: 300% 300%;
+  -webkit-animation: ToxicSpill 10s ease infinite;
+  -moz-animation: ToxicSpill 10s ease infinite;
+  -o-animation: ToxicSpill 10s ease infinite;
+  animation: ToxicSpill 10s ease infinite;
+  @-webkit-keyframes ToxicSpill {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-moz-keyframes ToxicSpill {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @-o-keyframes ToxicSpill {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+  @keyframes ToxicSpill {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+  }
+}
