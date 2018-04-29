@@ -7,7 +7,7 @@ m.setAttribute('content', 'width=device-width,initial-scale=1,user-scalable=0');
 
 var l = document.createElement('link');
 l.setAttribute('rel', 'stylesheet');
-l.setAttribute('href', 'http://shapegraph.com/cdn/css/sg.css');
+l.setAttribute('href', 'https://shapegraph.com/cdn/css/sg.css');
 l.setAttribute('type', 'text/css');
 
 var s = document.createElement('script');
