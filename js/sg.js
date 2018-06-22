@@ -21,7 +21,7 @@ s.setAttribute('src', 'https://code.jquery.com/jquery-3.3.1.min.js');
 document.getElementsByTagName('head')[0].appendChild(m1);
 document.getElementsByTagName('head')[0].appendChild(m2);
 document.getElementsByTagName('head')[0].appendChild(m3);
-documenwt.getElementsByTagName('head')[0].appendChild(l);
+document.getElementsByTagName('head')[0].appendChild(l);
 document.getElementsByTagName('head')[0].appendChild(s);
 
 }());
